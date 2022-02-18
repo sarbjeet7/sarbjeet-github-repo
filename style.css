@@ -73,5 +73,5 @@
     text-align: center;
     display: block;
     min-height: 270px;
-    object-fit: cover;
+    /* object-fit: cover; */
 }

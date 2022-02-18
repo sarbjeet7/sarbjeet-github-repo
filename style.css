@@ -65,3 +65,13 @@
  {
    background-color: #00897b;
  }
+
+ .box-grid img {
+    width: 100%;
+    max-width: 300px;
+    margin: 0 auto;
+    text-align: center;
+    display: block;
+    min-height: 270px;
+    object-fit: cover;
+}
